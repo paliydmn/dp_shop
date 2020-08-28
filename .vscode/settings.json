@@ -1,0 +1,6 @@
+{
+    "http.proxyAuthorization": null,
+    "jshint.options":{
+        "esversion":8
+    }
+}

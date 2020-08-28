@@ -1,0 +1,77 @@
+.container {
+    margin-top: 15px;
+}
+
+h2.page-title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+img.pimage {
+    width: 150px;
+}
+
+a.pa {
+    display: inline-block;
+    height: 160px;
+}
+
+.row.products.p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+img.spi {
+    width: 100%;
+}
+
+img.сpi {
+    width: 100px;
+}
+
+table.alignmiddle td {
+    vertical-align: middle !important;
+}
+
+ul.gallery {
+    padding: 0;
+}
+
+ul.gallery li :first-child{
+    margin-left: 0;
+}
+ul.gallery li {
+    margin: 20px;
+    display: inline-block;
+    list-style: none;
+    }
+
+.btn-buy {
+    padding: 5px 25px;
+    text-align: center;
+    border-radius: 25px;
+    background: #3bcf3b;
+    border: 0;
+    color: #fff;
+    transition: .3s;
+}
+
+a.prod-details {
+    vertical-align: -webkit-baseline-middle;
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+hr.nav {
+    border: 1px solid #9a9da0;
+    border-radius: 10px;
+    width: 60%;
+    margin-bottom: 1em;
+}
+
+@media (min-width: 768px) {
+      hr.nav {
+      display: none;
+    }
+}
